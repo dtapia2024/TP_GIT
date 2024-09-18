@@ -12,6 +12,7 @@ namespace tp1
 	
 		public void encolar(T elem) {
 			this.datos.Add(elem);
+			/*verificar*/
 		}
 	
 		public T desencolar() {
