@@ -1,0 +1,24 @@
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\bin\Debug\tpfinal.exe.config
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\bin\Debug\tpfinal.exe
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\bin\Debug\tpfinal.pdb
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.csprojResolveAssemblyReference.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.Form1.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.Form2.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.Consultas.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.Inicio.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.ListItem.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.csproj.GenerateResource.Cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.exe
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.pdb
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\bin\Debug\tpfinal.exe.config
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\bin\Debug\tpfinal.exe
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\bin\Debug\tpfinal.pdb
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.csprojResolveAssemblyReference.cache
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.Form1.resources
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.Form2.resources
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.Consultas.resources
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.Inicio.resources
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.ListItem.resources
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.csproj.GenerateResource.Cache
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.exe
+C:\Users\dtapia\Downloads\unaj2024\complejidad y algoritmos\trabajo final\TPFinal_sharpdevelop_base\WiW\obj\Debug\tpfinal.pdb
